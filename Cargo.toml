@@ -1,0 +1,11 @@
+[package]
+name = "primevalis"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "primevalis"
+path = "src/lib.rs"
+crate-type = ["lib"]
+
+[dependencies]
