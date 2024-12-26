@@ -1,5 +1,9 @@
 # Primevalis
 
+<p align="center">
+  <img src="docs/images/logo.png" alt="HTML Linter Logo" width="200">
+</p>
+
 ## Overview
 
 This library provides a function to determine whether a given number between 1 and 1000 is prime. The `is_prime` function evaluates the primality of a number by checking predefined conditions for each number in the specified range.
