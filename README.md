@@ -1,8 +1,10 @@
 # Primevalis
 
 <p align="center">
-  <img src="docs/images/logo.png" alt="HTML Linter Logo" width="200">
+  <img src="docs/images/logo.png" alt="Primevali Logo" width="200">
 </p>
+
+**"In the midst of chaos, there is also opportunity."**
 
 ## Overview
 
